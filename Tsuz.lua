@@ -82,6 +82,7 @@ local WhitelistData = {
     ["ensisbsjbrhe"] = {type = "Usuário add", expires = parseDateTime("09/10/2030 19:40")},
     ["gui_neh1023"] = {type = "Usuário add", expires = parseDateTime("09/10/2030 19:40")},
     ["killert_494"] = {type = "Usuário add", expires = parseDateTime("09/10/2030 19:40")},
+    ["pedobis774"] = {type = "Dono", expires = parseDateTime("25/12/2039 20:09")},
 }
 
 local function isUserWhitelisted(username)
